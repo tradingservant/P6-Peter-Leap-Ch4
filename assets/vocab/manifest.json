@@ -1,0 +1,74 @@
+[
+  {
+    "id": "go on a charity walk",
+    "picture_id": "A",
+    "primary": true,
+    "file": "assets/vocab/go_on_a_charity_walk.png",
+    "book_page": 38,
+    "note": "Inner photo of the charity walk. Page bars and the line underneath were trimmed."
+  },
+  {
+    "id": "sell flags",
+    "picture_id": "B",
+    "primary": true,
+    "file": "assets/vocab/sell_flags.png",
+    "book_page": 43,
+    "note": "Cartoon children with a charity tin. The printed 'sell / buy' and 'tickets' labels were trimmed so picture match is not spoiled."
+  },
+  {
+    "id": "run a charity sale",
+    "picture_id": "C",
+    "primary": true,
+    "file": "assets/vocab/charity_cake_sale.png",
+    "book_page": 39,
+    "note": "Charity Cake Sale photo. The green frame was trimmed. The table sign is part of the photograph."
+  },
+  {
+    "id": "go on a charity run",
+    "picture_id": "D",
+    "primary": true,
+    "file": "assets/vocab/go_on_a_charity_run.png",
+    "book_page": 43,
+    "note": "Small mind-map photo of runners. The printed 'charity walk / charity run' labels were trimmed. Soft because the book thumbnail is small."
+  },
+  {
+    "id": "take part in a charity show",
+    "picture_id": "E",
+    "primary": true,
+    "file": "assets/vocab/take_part_in_a_charity_show.png",
+    "book_page": 43,
+    "note": "Small mind-map fragment. Handwriting that named the answer was trimmed. The remaining picture is the stall corner from the book crop."
+  },
+  {
+    "id": "visit the elderly",
+    "picture_id": "F",
+    "primary": true,
+    "file": "assets/vocab/visit_the_elderly.png",
+    "book_page": 39,
+    "note": "Elderly-home meal. The red hand graphic on the page edge was trimmed."
+  },
+  {
+    "id": "run a second-hand stall",
+    "picture_id": "G",
+    "primary": true,
+    "file": "assets/vocab/run_a_second_hand_stall.png",
+    "book_page": 43,
+    "note": "Second-hand books. The handwritten 'organise' label above the photo was trimmed."
+  },
+  {
+    "id": "clean the beach",
+    "picture_id": "H",
+    "primary": true,
+    "file": "assets/vocab/clean_the_beach.png",
+    "book_page": 39,
+    "note": "Beach clean-up. This is voluntary work on the beach, not a pile of clothes. collect clothes stays text-only."
+  },
+  {
+    "id": "donate canned food",
+    "picture_id": "I",
+    "primary": true,
+    "file": "assets/vocab/donate_canned_food.png",
+    "book_page": 38,
+    "note": "Hands putting canned food into a donation box. The coloured page frame was trimmed."
+  }
+]
